@@ -4,9 +4,11 @@
 
 ###
 
-<div data-importer="socials" align="left">
-  <a href="https://fabianf4.dev" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/portfolio/default.svg" width="52" height="40" alt="portfolio logo"  /></a>
+<div data-importer="socials" align="center">
+  <a href="https://fabianf4.dev" target="_blank"><img src="assets/icons/portfolio.svg" height="40" alt="portfolio logo"  /></a>
+  <img width="12" />
   <a href="https://www.linkedin.com/in/fabianf4-dev/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+  <img width="12" />
   <a href="mailto:[email protected]"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
 </div>
 
@@ -16,7 +18,7 @@
 
 ###
 
-<p data-importer="text" align="left">My name is Fabian Esteban Muñoz Lopez and I'm a Systems Engineer / Developer, from Colombia</p>
+<p data-importer="text" align="left">My name is Fabian Muñoz and I'm a Systems Engineer / Developer, from Colombia</p>
 
 ###
 
@@ -24,7 +26,7 @@
 
 ###
 
-<p data-importer="text" align="left">⚡ Systems Engineer with experience in enterprise application development and process automation using Power Platform, Python, and SQL Server.<br>📚 Graduate in Systems and Computer Engineering from the Universidad Pedagógica y Tecnológica de Colombia.<br>🎯 Goals: Deliver innovative solutions that optimize processes and generate value.<br>🎲 Fun fact: I enjoy playing video games, watching series, listening to music, learning, dancing and swimming.</p>
+<p data-importer="text" align="left">⚡ Systems Engineer with experience in enterprise application development and process automation using Power Platform, Python, and SQL Server.<br>📚 Graduate in Systems and Computer Engineering from the Universidad Pedagógica y Tecnológica de Colombia.<br>🎯 Goals: Deliver innovative solutions that optimize processes and generate value.<br>I enjoy playing video games, watching series, listening to music, learning, dancing and swimming.</p>
 
 ###
 
@@ -32,7 +34,7 @@
 
 ###
 
-<div data-importer="techs" align="left">
+<div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
