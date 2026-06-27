@@ -26,7 +26,7 @@
 
 ###
 
-<p data-importer="text" align="left">⚡ Systems Engineer with experience in enterprise application development and process automation using Power Platform, Python, and SQL Server.<br>📚 Graduate in Systems and Computer Engineering from the Universidad Pedagógica y Tecnológica de Colombia.<br>🎯 Goals: Deliver innovative solutions that optimize processes and generate value.<br>I enjoy playing video games, watching series, listening to music, learning, dancing and swimming.</p>
+<p data-importer="text" align="left">⚡ Systems Engineer with experience in enterprise application development and process automation using Power Platform, Python, and SQL Server.<br>📚 Graduate in Systems and Computer Engineering from the Universidad Pedagógica y Tecnológica de Colombia.<br>🎯 Goals: Deliver innovative solutions that optimize processes and generate value.<br>🎲 I enjoy playing video games, watching series, listening to music, learning, dancing and swimming.</p>
 
 ###
 
