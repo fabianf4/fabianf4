@@ -5,7 +5,7 @@
 **Ingeniero de Sistemas enfocado en Power Platform, Python & desarrollo web**
 
 <p>
-  <a href="#espanol">🌐 Español</a>
+  <a href="#espanol">🇨🇴 Español</a>
   ·
   <a href="#english">🇺🇸 English</a>
 </p>
@@ -14,9 +14,14 @@
 
 ---
 
+<div align="center">
+<table>
+<tr>
+<td width="800" align="left" valign="top">
+
 <a name="espanol"></a>
 
-# 🌐 Español
+# 🇨🇴 Español
 
 ## 👋 Sobre mí
 
@@ -30,41 +35,41 @@ Soy Ingeniero de Sistemas y Computación egresado de la **Universidad Pedagógic
 
 **Lenguajes**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-7c3aed?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-7c3aed?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-7c3aed?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-7c3aed?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-7c3aed?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-7c3aed?style=for-the-badge&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-7c3aed?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-7c3aed?style=flat&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-7c3aed?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-7c3aed?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-7c3aed?style=flat&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-7c3aed?style=flat&logoColor=white)
 
 **Frameworks**
 
-![React](https://img.shields.io/badge/React-7c3aed?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-7c3aed?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-7c3aed?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-7c3aed?style=flat&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-7c3aed?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-7c3aed?style=flat&logo=express&logoColor=white)
 
 **Power Platform**
 
-![Power Apps](https://img.shields.io/badge/Power_Apps-7c3aed?style=for-the-badge&logo=powerapps&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-7c3aed?style=for-the-badge&logo=powerautomate&logoColor=white)
-![Power Pages](https://img.shields.io/badge/Power_Pages-7c3aed?style=for-the-badge&logo=powerpages&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-7c3aed?style=for-the-badge&logo=powerbi&logoColor=white)
-![Dataverse](https://img.shields.io/badge/Dataverse-7c3aed?style=for-the-badge&logoColor=white)
-![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-7c3aed?style=for-the-badge&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power_Apps-7c3aed?style=flat&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-7c3aed?style=flat&logo=powerautomate&logoColor=white)
+![Power Pages](https://img.shields.io/badge/Power_Pages-7c3aed?style=flat&logo=powerpages&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-7c3aed?style=flat&logo=powerbi&logoColor=white)
+![Dataverse](https://img.shields.io/badge/Dataverse-7c3aed?style=flat&logoColor=white)
+![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-7c3aed?style=flat&logoColor=white)
 
 **Bases de datos y almacenamiento**
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-7c3aed?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-7c3aed?style=for-the-badge&logo=mysql&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-7c3aed?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
-![Azure Blob Storage](https://img.shields.io/badge/Azure_Blob_Storage-7c3aed?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-7c3aed?style=flat&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-7c3aed?style=flat&logo=mysql&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-7c3aed?style=flat&logo=microsoftsharepoint&logoColor=white)
+![Azure Blob Storage](https://img.shields.io/badge/Azure_Blob_Storage-7c3aed?style=flat&logo=microsoftazure&logoColor=white)
 
 **Herramientas**
 
-![Git](https://img.shields.io/badge/Git-7c3aed?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-7c3aed?style=for-the-badge&logo=docker&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-7c3aed?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-7c3aed?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-7c3aed?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-7c3aed?style=flat&logo=docker&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-7c3aed?style=flat&logo=microsoftexcel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-7c3aed?style=flat&logoColor=white)
 
 ## 🚀 Proyectos Destacados
 
@@ -121,9 +126,9 @@ Sitio web de turismo espacial construido con JavaScript.
 
 ## 📫 Conectar
 
-[![Portfolio](https://img.shields.io/badge/fabianf4.dev-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fabianf4.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabianf4)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabianf4-dev/)
+[![Portfolio](https://img.shields.io/badge/fabianf4.dev-7c3aed?style=flat&logo=google-chrome&logoColor=white)](https://fabianf4.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-7c3aed?style=flat&logo=github&logoColor=white)](https://github.com/fabianf4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7c3aed?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabianf4-dev/)
 
 ## 📊 Estadísticas de GitHub
 
@@ -136,15 +141,16 @@ Sitio web de turismo espacial construido con JavaScript.
   <img src="https://streak-stats.demolab.com/?user=fabianf4&theme=tokyonight&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## 🐍 Serpiente de Contribuciones
+## 🕹️ Pacman de Contribuciones
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabianf4/fabianf4/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabianf4/fabianf4/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/fabianf4/fabianf4/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/fabianf4/fabianf4/output/pacman-contribution-graph.svg" alt="github contribution pacman" />
 </p>
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
@@ -164,41 +170,41 @@ I'm a Systems and Computer Engineer graduated from **Universidad Pedagógica y T
 
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-7c3aed?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-7c3aed?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-7c3aed?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-7c3aed?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-7c3aed?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-7c3aed?style=for-the-badge&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-7c3aed?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-7c3aed?style=flat&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-7c3aed?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-7c3aed?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-7c3aed?style=flat&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-7c3aed?style=flat&logoColor=white)
 
 **Frameworks**
 
-![React](https://img.shields.io/badge/React-7c3aed?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-7c3aed?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-7c3aed?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-7c3aed?style=flat&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-7c3aed?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-7c3aed?style=flat&logo=express&logoColor=white)
 
 **Power Platform**
 
-![Power Apps](https://img.shields.io/badge/Power_Apps-7c3aed?style=for-the-badge&logo=powerapps&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-7c3aed?style=for-the-badge&logo=powerautomate&logoColor=white)
-![Power Pages](https://img.shields.io/badge/Power_Pages-7c3aed?style=for-the-badge&logo=powerpages&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-7c3aed?style=for-the-badge&logo=powerbi&logoColor=white)
-![Dataverse](https://img.shields.io/badge/Dataverse-7c3aed?style=for-the-badge&logoColor=white)
-![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-7c3aed?style=for-the-badge&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power_Apps-7c3aed?style=flat&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-7c3aed?style=flat&logo=powerautomate&logoColor=white)
+![Power Pages](https://img.shields.io/badge/Power_Pages-7c3aed?style=flat&logo=powerpages&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-7c3aed?style=flat&logo=powerbi&logoColor=white)
+![Dataverse](https://img.shields.io/badge/Dataverse-7c3aed?style=flat&logoColor=white)
+![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-7c3aed?style=flat&logoColor=white)
 
 **Databases & Storage**
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-7c3aed?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-7c3aed?style=for-the-badge&logo=mysql&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-7c3aed?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
-![Azure Blob Storage](https://img.shields.io/badge/Azure_Blob_Storage-7c3aed?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-7c3aed?style=flat&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-7c3aed?style=flat&logo=mysql&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-7c3aed?style=flat&logo=microsoftsharepoint&logoColor=white)
+![Azure Blob Storage](https://img.shields.io/badge/Azure_Blob_Storage-7c3aed?style=flat&logo=microsoftazure&logoColor=white)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-7c3aed?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-7c3aed?style=for-the-badge&logo=docker&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-7c3aed?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-7c3aed?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-7c3aed?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-7c3aed?style=flat&logo=docker&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-7c3aed?style=flat&logo=microsoftexcel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-7c3aed?style=flat&logoColor=white)
 
 ## 🚀 Featured Projects
 
@@ -255,9 +261,9 @@ Space tourism website built with JavaScript.
 
 ## 📫 Connect
 
-[![Portfolio](https://img.shields.io/badge/fabianf4.dev-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fabianf4.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabianf4)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabianf4-dev/)
+[![Portfolio](https://img.shields.io/badge/fabianf4.dev-7c3aed?style=flat&logo=google-chrome&logoColor=white)](https://fabianf4.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-7c3aed?style=flat&logo=github&logoColor=white)](https://github.com/fabianf4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7c3aed?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabianf4-dev/)
 
 ## 📊 GitHub Stats
 
@@ -270,12 +276,13 @@ Space tourism website built with JavaScript.
   <img src="https://streak-stats.demolab.com/?user=fabianf4&theme=tokyonight&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## 🐍 Contribution Snake
+## 🕹️ Contribution Pacman
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabianf4/fabianf4/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabianf4/fabianf4/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/fabianf4/fabianf4/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/fabianf4/fabianf4/output/pacman-contribution-graph.svg" alt="github contribution pacman" />
 </p>
+
+</td>
+</tr>
+</table>
+</div>
