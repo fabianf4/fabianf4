@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola 👋, soy Fabian Esteban
+# Hola, soy Fabian <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 100 100" style="vertical-align: middle;"><g><path fill="#7c3aed" d="M30 55c0-5 5-5 8-5V30c0-3 2-5 5-5s5 2 5 5v20h4V18c0-3 2-5 5-5s5 2 5 5v30h4V22c0-3 2-5 5-5s5 2 5 5v28h2c4 0 4 5 2 10-2 10-8 25-20 27-12 1-22-5-28-15-4-7-4-12-2-17z"/><animateTransform attributeName="transform" type="rotate" values="-12 50 90; 12 50 90; -12 50 90" dur="0.7s" repeatCount="indefinite"/></g></svg>
 
 **Ingeniero de Sistemas enfocado en Power Platform, Python & desarrollo web**
 
