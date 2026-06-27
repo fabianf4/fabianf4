@@ -1,3 +1,9 @@
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://media1.tenor.com/m/Jp441Dss2BgAAAAC/type-cat.gif-gif-11747627"  />
+</div>
+
+###
+
 <div data-importer="socials" align="left">
   <a href="https://fabianf4.dev" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/portfolio/default.svg" width="52" height="40" alt="portfolio logo"  /></a>
   <a href="https://www.linkedin.com/in/fabianf4-dev/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
@@ -18,16 +24,7 @@
 
 ###
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <p data-importer="text" align="left">⚡ Systems Engineer with experience in enterprise application development and process automation using Power Platform, Python, and SQL Server.<br>📚 Graduate in Systems and Computer Engineering from the Universidad Pedagógica y Tecnológica de Colombia.<br>🎯 Goals: Deliver innovative solutions that optimize processes and generate value.<br>🎲 Fun fact: I enjoy playing video games, watching series, listening to music, learning, dancing and swimming.</p>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img data-importer="image" height="200" src="https://media1.tenor.com/m/Jp441Dss2BgAAAAC/type-cat.gif-gif-11747627"  />
-    </td>
-  </tr>
-</table>
+<p data-importer="text" align="left">⚡ Systems Engineer with experience in enterprise application development and process automation using Power Platform, Python, and SQL Server.<br>📚 Graduate in Systems and Computer Engineering from the Universidad Pedagógica y Tecnológica de Colombia.<br>🎯 Goals: Deliver innovative solutions that optimize processes and generate value.<br>🎲 Fun fact: I enjoy playing video games, watching series, listening to music, learning, dancing and swimming.</p>
 
 ###
 
@@ -60,9 +57,9 @@
 ###
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabianf4/fabianf4/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabianf4/fabianf4/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fabianf4/fabianf4/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabianf4/fabianf4/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabianf4/fabianf4/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fabianf4/fabianf4/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
