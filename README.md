@@ -58,6 +58,10 @@
 
 ###
 
+<h2 data-importer="text" align="left">🍽️ Watch pacman eat my commits</h2>
+
+###
+
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabianf4/fabianf4/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabianf4/fabianf4/output/pacman-contribution-graph.svg">
