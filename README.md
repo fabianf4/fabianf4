@@ -58,7 +58,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">🍽️ Watch pacman eat my commits</h2>
+<h2 data-importer="text" align="left">Watch pacman eat my commits</h2>
 
 ###
 
@@ -69,4 +69,3 @@
 </picture>
 
 ###
-
