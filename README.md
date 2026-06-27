@@ -1,4 +1,9 @@
 <div align="center">
+<table>
+<tr>
+<td width="600" align="center" valign="top">
+
+<div align="center">
 
 # Hola, soy Fabian <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 100 100" style="vertical-align: middle;"><g><path fill="#7c3aed" d="M30 55c0-5 5-5 8-5V30c0-3 2-5 5-5s5 2 5 5v20h4V18c0-3 2-5 5-5s5 2 5 5v30h4V22c0-3 2-5 5-5s5 2 5 5v28h2c4 0 4 5 2 10-2 10-8 25-20 27-12 1-22-5-28-15-4-7-4-12-2-17z"/><animateTransform attributeName="transform" type="rotate" values="-12 50 90; 12 50 90; -12 50 90" dur="0.7s" repeatCount="indefinite"/></g></svg>
 
@@ -13,11 +18,6 @@
 </div>
 
 ---
-
-<div align="center">
-<table>
-<tr>
-<td width="800" align="left" valign="top">
 
 <a name="espanol"></a>
 
@@ -144,13 +144,12 @@ Sitio web de turismo espacial construido con JavaScript.
 ## 🕹️ Pacman de Contribuciones
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fabianf4/fabianf4/output/pacman-contribution-graph.svg" alt="github contribution pacman" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabianf4/fabianf4/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabianf4/fabianf4/output/pacman-contribution-graph.svg" />
+    <img alt="github contribution pacman" src="https://raw.githubusercontent.com/fabianf4/fabianf4/output/pacman-contribution-graph.svg" />
+  </picture>
 </p>
-
-</td>
-</tr>
-</table>
-</div>
 
 ---
 
@@ -279,7 +278,11 @@ Space tourism website built with JavaScript.
 ## 🕹️ Contribution Pacman
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fabianf4/fabianf4/output/pacman-contribution-graph.svg" alt="github contribution pacman" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabianf4/fabianf4/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabianf4/fabianf4/output/pacman-contribution-graph.svg" />
+    <img alt="github contribution pacman" src="https://raw.githubusercontent.com/fabianf4/fabianf4/output/pacman-contribution-graph.svg" />
+  </picture>
 </p>
 
 </td>
