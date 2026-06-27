@@ -1,11 +1,10 @@
-<div align="center">
-<table width="600">
-<tr>
-<td valign="top" align="center">
+<p align="center">
+  <img width="600" height="80" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:a78bfa&height=80&section=header" />
+</p>
 
 <div align="center">
 
-# Hola, soy Fabian <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 100 100" style="vertical-align: middle;"><g><path fill="#7c3aed" d="M30 55c0-5 5-5 8-5V30c0-3 2-5 5-5s5 2 5 5v20h4V18c0-3 2-5 5-5s5 2 5 5v30h4V22c0-3 2-5 5-5s5 2 5 5v28h2c4 0 4 5 2 10-2 10-8 25-20 27-12 1-22-5-28-15-4-7-4-12-2-17z"/><animateTransform attributeName="transform" type="rotate" values="-12 50 90; 12 50 90; -12 50 90" dur="0.7s" repeatCount="indefinite"/></g></svg>
+# Hola, soy Fabian 👋
 
 **Ingeniero de Sistemas enfocado en Power Platform, Python & desarrollo web**
 
@@ -25,7 +24,7 @@
 
 ## 👋 Sobre mí
 
-Soy Ingeniero de Sistemas y Computación egresado de la **Universidad Pedagógica y Tecnológica de Colombia (UPTC)**, apasionado por el desarrollo de aplicaciones empresariales y la automatización de procesos.
+<p><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==" width="600" height="1" alt="">Soy Ingeniero de Sistemas y Computación egresado de la **Universidad Pedagógica y Tecnológica de Colombia (UPTC)**, apasionado por el desarrollo de aplicaciones empresariales y la automatización de procesos.</p>
 
 - 💼 Especializado en **Power Platform**, **Python**, **SQL**, **JS**, **HTML**, **CSS**
 - 🎯 Enfocado en construir soluciones que optimicen procesos y generen valor
@@ -160,7 +159,7 @@ Sitio web de turismo espacial construido con JavaScript.
 
 ## 👋 About me
 
-I'm a Systems and Computer Engineer graduated from **Universidad Pedagógica y Tecnológica de Colombia (UPTC)**, passionate about enterprise application development and process automation.
+<p><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==" width="600" height="1" alt="">I'm a Systems and Computer Engineer graduated from **Universidad Pedagógica y Tecnológica de Colombia (UPTC)**, passionate about enterprise application development and process automation.</p>
 
 - 💼 Specialized in **Power Platform**, **Python**, **SQL**, **JS**, **HTML**, **CSS**
 - 🎯 Focused on building solutions that optimize processes and generate value
@@ -286,8 +285,3 @@ Space tourism website built with JavaScript.
     <img width="500" alt="github contribution pacman" src="https://raw.githubusercontent.com/fabianf4/fabianf4/output/pacman-contribution-graph.svg" />
   </picture>
 </p>
-
-</td>
-</tr>
-</table>
-</div>
