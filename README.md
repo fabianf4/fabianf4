@@ -84,74 +84,60 @@ Soy ingeniero de Sistemas y Computación egresado de la **Universidad Pedagógic
 
 ## 🚀 Proyectos destacados
 
-<!-- Proyecto 1 -->
 <table>
   <tr>
-    <td width="100%">
-      <h2 align="center">⚡ Interelectricas IMAC</h2>
-      <p align="center">Sitio web para una empresa de servicios eléctricos construido con Next.js.</p>
-      <p align="center">
+    <td width="48%" valign="top" align="center">
+      <h3>⚡ Interelectricas IMAC</h3>
+      <p>Sitio web para una empresa de servicios eléctricos construido con Next.js.</p>
+      <p>
         <img src="https://img.shields.io/badge/Next.js-7c3aed?style=flat-square&logo=next.js&logoColor=white" />
         <img src="https://img.shields.io/badge/React-7c3aed?style=flat-square&logo=react&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS-7c3aed?style=flat-square&logo=css3&logoColor=white" />
       </p>
-      <p align="center">
+      <p>
         <a href="https://github.com/fabianf4/projectInrelectricasIMAC"><b>📦 Repositorio</b></a>
         &nbsp;·&nbsp;
         <a href="https://project-inrelectricas-imac.vercel.app/"><b>🌐 Live</b></a>
       </p>
     </td>
-  </tr>
-</table>
-
-<!-- Proyecto 2 -->
-<table>
-  <tr>
-    <td width="100%">
-      <h2 align="center">📰 News homepage</h2>
-      <p align="center">Reto de Frontend Mentor — diseño de página de noticias con CSS Grid.</p>
-      <p align="center">
+    <td>&nbsp;</td>
+    <td width="48%" valign="top" align="center">
+      <h3>📰 News homepage</h3>
+      <p>Reto de Frontend Mentor — diseño de página de noticias con CSS Grid.</p>
+      <p>
         <img src="https://img.shields.io/badge/HTML-7c3aed?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS-7c3aed?style=flat-square&logo=css3&logoColor=white" />
       </p>
-      <p align="center">
+      <p>
         <a href="https://github.com/fabianf4/challenge-2-frontendmentor-"><b>📦 Repositorio</b></a>
         &nbsp;·&nbsp;
         <a href="https://fabianf4.github.io/challenge-2-frontendmentor-/"><b>🌐 Live</b></a>
       </p>
     </td>
   </tr>
-</table>
-
-<!-- Proyecto 3 -->
-<table>
+  <tr><td colspan="3">&nbsp;</td></tr>
   <tr>
-    <td width="100%">
-      <h2 align="center">💜 Huddle landing page</h2>
-      <p align="center">Reto de Frontend Mentor — landing page responsiva con bloques alternados.</p>
-      <p align="center">
+    <td width="48%" valign="top" align="center">
+      <h3>💜 Huddle landing page</h3>
+      <p>Reto de Frontend Mentor — landing page responsiva con bloques alternados.</p>
+      <p>
         <img src="https://img.shields.io/badge/HTML-7c3aed?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS-7c3aed?style=flat-square&logo=css3&logoColor=white" />
       </p>
-      <p align="center">
+      <p>
         <a href="https://github.com/fabianf4/challenge-1-frontendmentor"><b>📦 Repositorio</b></a>
         &nbsp;·&nbsp;
         <a href="https://fabianf4.github.io/challenge-1-frontendmentor/"><b>🌐 Live</b></a>
       </p>
     </td>
-  </tr>
-</table>
-
-<!-- Proyecto 4 -->
-<table>
-  <tr>
-    <td width="100%">
-      <h2 align="center">🚀 Space Tourism Website</h2>
-      <p align="center">Sitio web de turismo espacial construido con JavaScript.</p>
-      <p align="center">
+    <td>&nbsp;</td>
+    <td width="48%" valign="top" align="center">
+      <h3>🚀 Space Tourism Website</h3>
+      <p>Sitio web de turismo espacial construido con JavaScript.</p>
+      <p>
         <img src="https://img.shields.io/badge/JavaScript-7c3aed?style=flat-square&logo=javascript&logoColor=white" />
       </p>
-      <p align="center">
+      <p>
         <a href="https://github.com/fabianf4/SpaceTourismWebsite"><b>📦 Repositorio</b></a>
       </p>
     </td>
@@ -171,12 +157,11 @@ Soy ingeniero de Sistemas y Computación egresado de la **Universidad Pedagógic
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=fabianf4&show_icons=true&theme=tokyonight&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&bg_color=0d1117&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianf4&layout=compact&theme=tokyonight&title_color=7c3aed&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="Top Languages" />
-
-<img width="96%" src="https://streak-stats.demolab.com/?user=fabianf4&theme=tokyonight&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&hide_border=true" alt="GitHub Streak" />
-
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=fabianf4&show_icons=true&theme=tokyonight&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&bg_color=0d1117&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <br>
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianf4&layout=compact&theme=tokyonight&title_color=7c3aed&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="Top Languages" />
+  <br>
+  <img width="400" src="https://streak-stats.demolab.com/?user=fabianf4&theme=tokyonight&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🕹️ Pacman de contribuciones
@@ -185,7 +170,7 @@ Soy ingeniero de Sistemas y Computación egresado de la **Universidad Pedagógic
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabianf4/fabianf4/output/pacman-contribution-graph-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabianf4/fabianf4/output/pacman-contribution-graph.svg" />
-    <img width="90%" alt="github contribution pacman" src="https://raw.githubusercontent.com/fabianf4/fabianf4/output/pacman-contribution-graph.svg" />
+    <img width="100%" alt="github contribution pacman" src="https://raw.githubusercontent.com/fabianf4/fabianf4/output/pacman-contribution-graph.svg" />
   </picture>
 </div>
 
@@ -265,74 +250,60 @@ I'm a Systems and Computer Engineer graduated from **Universidad Pedagógica y T
 
 ## 🚀 Featured Projects
 
-<!-- Project 1 -->
 <table>
   <tr>
-    <td width="100%">
-      <h2 align="center">⚡ Interelectricas IMAC</h2>
-      <p align="center">Website for an electrical services company built with Next.js.</p>
-      <p align="center">
+    <td width="48%" valign="top" align="center">
+      <h3>⚡ Interelectricas IMAC</h3>
+      <p>Website for an electrical services company built with Next.js.</p>
+      <p>
         <img src="https://img.shields.io/badge/Next.js-7c3aed?style=flat-square&logo=next.js&logoColor=white" />
         <img src="https://img.shields.io/badge/React-7c3aed?style=flat-square&logo=react&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS-7c3aed?style=flat-square&logo=css3&logoColor=white" />
       </p>
-      <p align="center">
+      <p>
         <a href="https://github.com/fabianf4/projectInrelectricasIMAC"><b>📦 Repository</b></a>
         &nbsp;·&nbsp;
         <a href="https://project-inrelectricas-imac.vercel.app/"><b>🌐 Live</b></a>
       </p>
     </td>
-  </tr>
-</table>
-
-<!-- Project 2 -->
-<table>
-  <tr>
-    <td width="100%">
-      <h2 align="center">📰 News homepage</h2>
-      <p align="center">Frontend Mentor challenge — news homepage layout with CSS Grid.</p>
-      <p align="center">
+    <td>&nbsp;</td>
+    <td width="48%" valign="top" align="center">
+      <h3>📰 News homepage</h3>
+      <p>Frontend Mentor challenge — news homepage layout with CSS Grid.</p>
+      <p>
         <img src="https://img.shields.io/badge/HTML-7c3aed?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS-7c3aed?style=flat-square&logo=css3&logoColor=white" />
       </p>
-      <p align="center">
+      <p>
         <a href="https://github.com/fabianf4/challenge-2-frontendmentor-"><b>📦 Repository</b></a>
         &nbsp;·&nbsp;
         <a href="https://fabianf4.github.io/challenge-2-frontendmentor-/"><b>🌐 Live</b></a>
       </p>
     </td>
   </tr>
-</table>
-
-<!-- Project 3 -->
-<table>
+  <tr><td colspan="3">&nbsp;</td></tr>
   <tr>
-    <td width="100%">
-      <h2 align="center">💜 Huddle landing page</h2>
-      <p align="center">Frontend Mentor challenge — responsive landing page with alternating feature blocks.</p>
-      <p align="center">
+    <td width="48%" valign="top" align="center">
+      <h3>💜 Huddle landing page</h3>
+      <p>Frontend Mentor challenge — responsive landing page with alternating feature blocks.</p>
+      <p>
         <img src="https://img.shields.io/badge/HTML-7c3aed?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS-7c3aed?style=flat-square&logo=css3&logoColor=white" />
       </p>
-      <p align="center">
+      <p>
         <a href="https://github.com/fabianf4/challenge-1-frontendmentor"><b>📦 Repository</b></a>
         &nbsp;·&nbsp;
         <a href="https://fabianf4.github.io/challenge-1-frontendmentor/"><b>🌐 Live</b></a>
       </p>
     </td>
-  </tr>
-</table>
-
-<!-- Project 4 -->
-<table>
-  <tr>
-    <td width="100%">
-      <h2 align="center">🚀 Space Tourism Website</h2>
-      <p align="center">Space tourism website built with JavaScript.</p>
-      <p align="center">
+    <td>&nbsp;</td>
+    <td width="48%" valign="top" align="center">
+      <h3>🚀 Space Tourism Website</h3>
+      <p>Space tourism website built with JavaScript.</p>
+      <p>
         <img src="https://img.shields.io/badge/JavaScript-7c3aed?style=flat-square&logo=javascript&logoColor=white" />
       </p>
-      <p align="center">
+      <p>
         <a href="https://github.com/fabianf4/SpaceTourismWebsite"><b>📦 Repository</b></a>
       </p>
     </td>
@@ -352,12 +323,11 @@ I'm a Systems and Computer Engineer graduated from **Universidad Pedagógica y T
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=fabianf4&show_icons=true&theme=tokyonight&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&bg_color=0d1117&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianf4&layout=compact&theme=tokyonight&title_color=7c3aed&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="Top Languages" />
-
-<img width="96%" src="https://streak-stats.demolab.com/?user=fabianf4&theme=tokyonight&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&hide_border=true" alt="GitHub Streak" />
-
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=fabianf4&show_icons=true&theme=tokyonight&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&bg_color=0d1117&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <br>
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianf4&layout=compact&theme=tokyonight&title_color=7c3aed&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="Top Languages" />
+  <br>
+  <img width="400" src="https://streak-stats.demolab.com/?user=fabianf4&theme=tokyonight&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🕹️ Contribution Pacman
@@ -366,6 +336,6 @@ I'm a Systems and Computer Engineer graduated from **Universidad Pedagógica y T
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabianf4/fabianf4/output/pacman-contribution-graph-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabianf4/fabianf4/output/pacman-contribution-graph.svg" />
-    <img width="90%" alt="github contribution pacman" src="https://raw.githubusercontent.com/fabianf4/fabianf4/output/pacman-contribution-graph.svg" />
+    <img width="100%" alt="github contribution pacman" src="https://raw.githubusercontent.com/fabianf4/fabianf4/output/pacman-contribution-graph.svg" />
   </picture>
 </div>
