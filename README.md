@@ -1,36 +1,68 @@
-<div align="center">
-
-<h1>
-  <font color="#8B5CF6">Hola, soy Fabian</font>
-</h1>
-
-<h4>
-  <font color="#94A3B8">Computer Systems Engineer / Developer</font>
-</h4>
-
----
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /></a>
-<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" /></a>
-<a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" /></a>
-<a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" /></a>
-<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" /></a>
-<a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" /></a>
-<img src="https://img.shields.io/badge/-Power%20Platform-8B5CF6?style=flat-square&logo=microsoftpowerplatform&logoColor=white" height="48" alt="Power Platform" />
-
----
-
-### 🕹️ My Contribution Graph
-
-<img src="https://raw.githubusercontent.com/fabianf4/fabianf4/output/github_user_contribution_pacman_graph.svg" alt="Pacman Contribution Graph" />
-
----
-
-<a href="https://github.com/fabianf4"><img src="https://cdn.simpleicons.org/github/8B5CF6" width="32" height="32" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/fabianf4-dev/"><img src="https://cdn.simpleicons.org/linkedin/8B5CF6" width="32" height="32" alt="LinkedIn" /></a>
-<a href="mailto:fabianfa-munoz@gmail.com"><img src="https://cdn.simpleicons.org/gmail/8B5CF6" width="32" height="32" alt="Email" /></a>
-<a href="https://fabianf4.dev"><img src="https://cdn.simpleicons.org/globe/8B5CF6" width="32" height="32" alt="Portfolio" /></a>
-
+<div data-importer="socials" align="left">
+  <a href="https://fabianf4.dev" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/portfolio/default.svg" width="52" height="40" alt="portfolio logo"  /></a>
+  <a href="https://www.linkedin.com/in/fabianf4-dev/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+  <a href="mailto:[email protected]"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
 </div>
+
+###
+
+<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p data-importer="text" align="left">My name is Fabian Esteban Muñoz Lopez and I'm a Systems Engineer / Developer, from Colombia</p>
+
+###
+
+<h2 data-importer="text" align="left">About me</h2>
+
+###
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <p data-importer="text" align="left">⚡ Systems Engineer with experience in enterprise application development and process automation using Power Platform, Python, and SQL Server.<br>📚 Graduate in Systems and Computer Engineering from the Universidad Pedagógica y Tecnológica de Colombia.<br>🎯 Goals: Deliver innovative solutions that optimize processes and generate value.<br>🎲 Fun fact: I enjoy playing video games, watching series, listening to music, learning, dancing and swimming.</p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img data-importer="image" height="200" src="https://media1.tenor.com/m/Jp441Dss2BgAAAAC/type-cat.gif-gif-11747627"  />
+    </td>
+  </tr>
+</table>
+
+###
+
+<h2 data-importer="text" align="left">I code with</h2>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="assets/icons/power-platform.svg" height="40" alt="power platform logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabianf4/fabianf4/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabianf4/fabianf4/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fabianf4/fabianf4/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
