@@ -14,11 +14,11 @@
 
 ###
 
-<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
+<h2 data-importer="text" align="left">Hey 👋 What's up?</h2>
 
 ###
 
-<p data-importer="text" align="left"><span style="font-size: 20px;">My name is Fabian Muñoz and I'm a Systems Engineer / Developer, from Colombia.</span></p>
+<p data-importer="text" align="left">My name is Fabian Muñoz and I'm a Systems Engineer / Developer, from Colombia.</p>
 
 ###
 
@@ -65,3 +65,4 @@
 </picture>
 
 ###
+
