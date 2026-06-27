@@ -1,7 +1,7 @@
 <div align="center">
-<table>
+<table width="600">
 <tr>
-<td width="600" align="center" valign="top">
+<td valign="top" align="center">
 
 <div align="center">
 
@@ -133,12 +133,13 @@ Sitio web de turismo espacial construido con JavaScript.
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fabianf4&show_icons=true&theme=tokyonight&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&bg_color=0d1117&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianf4&layout=compact&theme=tokyonight&title_color=7c3aed&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="Top Languages" />
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=fabianf4&show_icons=true&theme=tokyonight&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&bg_color=0d1117&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=fabianf4&theme=tokyonight&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&hide_border=true" alt="GitHub Streak" />
+  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianf4&layout=compact&theme=tokyonight&title_color=7c3aed&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <img width="500" src="https://streak-stats.demolab.com/?user=fabianf4&theme=tokyonight&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 🕹️ Pacman de Contribuciones
@@ -147,7 +148,7 @@ Sitio web de turismo espacial construido con JavaScript.
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabianf4/fabianf4/output/pacman-contribution-graph-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabianf4/fabianf4/output/pacman-contribution-graph.svg" />
-    <img alt="github contribution pacman" src="https://raw.githubusercontent.com/fabianf4/fabianf4/output/pacman-contribution-graph.svg" />
+    <img width="500" alt="github contribution pacman" src="https://raw.githubusercontent.com/fabianf4/fabianf4/output/pacman-contribution-graph.svg" />
   </picture>
 </p>
 
@@ -267,12 +268,13 @@ Space tourism website built with JavaScript.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fabianf4&show_icons=true&theme=tokyonight&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&bg_color=0d1117&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianf4&layout=compact&theme=tokyonight&title_color=7c3aed&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="Top Languages" />
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=fabianf4&show_icons=true&theme=tokyonight&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&bg_color=0d1117&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=fabianf4&theme=tokyonight&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&hide_border=true" alt="GitHub Streak" />
+  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianf4&layout=compact&theme=tokyonight&title_color=7c3aed&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <img width="500" src="https://streak-stats.demolab.com/?user=fabianf4&theme=tokyonight&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 🕹️ Contribution Pacman
@@ -281,7 +283,7 @@ Space tourism website built with JavaScript.
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabianf4/fabianf4/output/pacman-contribution-graph-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabianf4/fabianf4/output/pacman-contribution-graph.svg" />
-    <img alt="github contribution pacman" src="https://raw.githubusercontent.com/fabianf4/fabianf4/output/pacman-contribution-graph.svg" />
+    <img width="500" alt="github contribution pacman" src="https://raw.githubusercontent.com/fabianf4/fabianf4/output/pacman-contribution-graph.svg" />
   </picture>
 </p>
 
